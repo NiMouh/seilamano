@@ -1,0 +1,36 @@
+\hypertarget{main_8c}{}\doxysection{src/main.c File Reference}
+\label{main_8c}\index{src/main.c@{src/main.c}}
+
+
+I\+S\+TO É U\+MA B\+R\+E\+VE D\+E\+S\+C\+R\+IÇÃO.  
+
+
+{\ttfamily \#include \char`\"{}print-\/function.\+h\char`\"{}}\newline
+Include dependency graph for main.\+c\+:
+% FIG 0
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{main_8c_a840291bc02cba5474a4cb46a9b9566fe}{main}} (void)
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+I\+S\+TO É U\+MA B\+R\+E\+VE D\+E\+S\+C\+R\+IÇÃO. 
+
+\begin{DoxyAuthor}{Author}
+E\+U\+Z\+I\+N\+HO 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+4.\+2
+\end{DoxyVersion}
+I\+S\+TO S\+IM É U\+MA D\+E\+S\+C\+R\+IÇÃO M\+A\+IS D\+E\+T\+A\+L\+H\+A\+DA D\+A\+Q\+U\+E\+L\+AS T\+O\+D\+AS M\+O\+D\+A\+F\+U\+C\+K\+AS DA S\+T\+R\+E\+E\+TS. A\+P\+O\+S\+TO Q\+UE C\+U\+R\+T\+ES Q\+U\+E\+I\+JO 
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{main_8c_a840291bc02cba5474a4cb46a9b9566fe}\label{main_8c_a840291bc02cba5474a4cb46a9b9566fe}} 
+\index{main.c@{main.c}!main@{main}}
+\index{main@{main}!main.c@{main.c}}
+\doxysubsubsection{\texorpdfstring{main()}{main()}}
+{\footnotesize\ttfamily int main (\begin{DoxyParamCaption}\item[{void}]{ }\end{DoxyParamCaption})}
+
+This is the main function of the program. G\+L\+O\+B\+AL V\+A\+R\+I\+A\+B\+LE N\+U\+M\+B\+ER;
